@@ -1,4 +1,4 @@
-# Parking Access Control Carrier Board (RK3568 Linux Platform)
+# Parking Access Control Carrier Board ([RK3568](https://www.alibaba.com/product-detail/YT-C68-Rockchip-RK3568-Quad-Core_1601366890205.html?mark=google_shopping&pcy=gb_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22700597011&adgrp=180785828586&fditm=&tgt=pla-295818637131&locintrst=&locphyscl=9046555&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=759400368396&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22700597011&gclid=CjwKCAiAqKbMBhBmEiwAZ3UboL_UOvhTcVAQdtOi1Q26pUZTIN0VSnM7d0zeDnuQOBmriPvX6vFZHBoCUVoQAvD_BwE) Linux Platform)
 ## Overview
 
 Designed and implemented a high-performance carrier board for a Rockchip RK3568 compute module, targeting smart parking access control systems with support for multiple communication protocols and peripheral devices. The board serves as a centralized controller for barrier gates, ANPR cameras, intercom systems, ticket printers, and access readers in outdoor parking installations.
