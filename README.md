@@ -101,9 +101,7 @@ SD card slot (up to 512 GB)
 - Deployment: Outdoor parking systems
 - Compliance Targets: CE & FCC
 
-## System Block Diagram
-![Alt text](System_Block_Diagram.png)
-## Nucleo F411RE (Processor)
-![Alt text](Nucleo.webp)
-## LoRa Shield (RFM95)
-![Alt text](LoRa_Node.png)
+## PCB
+![Alt text](Board1.png)
+![Alt text](Board2.png)
+![Alt text](Board3.png)
