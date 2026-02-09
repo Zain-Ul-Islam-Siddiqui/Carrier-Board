@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\eSpark\Desktop\anis-carrierboard\Design-Files\Carrier-Board-v1.0\Carrier_Board_v1.0.PcbDoc
+Date         : 5/23/2024
+Time         : 9:26:25 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 99.94%
+    Connections, 1696
+    Connections routed, 1695
+    Connections remaining, 1
+count : 4

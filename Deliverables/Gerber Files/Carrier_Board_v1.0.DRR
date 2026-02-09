@@ -1,0 +1,40 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Carrier_Board_v1.0.PcbDoc   12/06/2024  3:42:56 pm
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Carrier_Board_v1.0-RoundHoles.TXT
+ASCII SlotHoles File : Carrier_Board_v1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             1186      PTH        136.14inch (3457.93mm)
+T2      26mil (0.65mm)                                            Slot              4         PTH        1.22inch (30.93mm)
+T3      28mil (0.7mm)                                             Round             18        PTH        1.31inch (33.37mm)
+T4      32mil (0.8mm)                                             Round             8         PTH        0.67inch (16.90mm)
+T5      32mil (0.82mm)                                            Slot              5         PTH        2.17inch (55.08mm)
+T6      35mil (0.9mm)                                             Round             22        PTH        6.00inch (152.37mm)
+T7      36mil (0.914mm)                                           Round             6         PTH        0.39inch (10.00mm)
+T8      39mil (1mm)                                               Round             15        PTH        6.85inch (173.97mm)
+T9      47mil (1.2mm)                                             Round             8         PTH        1.36inch (34.54mm)
+T10     51mil (1.3mm)                                             Round             4         PTH        1.01inch (25.67mm)
+T11     55mil (1.4mm)                                             Round             2         PTH        5.51inch (140.04mm)
+T12     59mil (1.5mm)                                             Round             4         PTH        0.60inch (15.24mm)
+T13     63mil (1.6mm)                                             Round             15        PTH        2.39inch (60.71mm)
+T14     64mil (1.63mm)                                            Round             4         PTH        1.35inch (34.29mm)
+T15     91mil (2.3mm)                                             Round             4         PTH        0.96inch (24.50mm)
+T16     98mil (2.5mm)                                             Round             4         PTH        1.01inch (25.68mm)
+T17     130mil (3.3mm)                                            Round             4         PTH        7.34inch (186.37mm)
+T18     157mil (4mm)                                              Round             4         PTH        18.06inch (458.84mm)
+T19     28mil (0.7mm)                                             Round             2         NPTH       0.31inch (8.00mm)
+T20     30mil (0.75mm)                                            Round             4         NPTH       0.89inch (22.71mm)
+T21     39mil (1mm)                                               Round             2         NPTH       0.31inch (8.00mm)
+T22     43mil (1.1mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T23     55mil (1.4mm)                                             Round             2         NPTH       0.28inch (7.00mm)
+T24     63mil (1.6mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T25     64mil (1.62mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+T26     128mil (3.25mm)                                           Round             4         NPTH       1.19inch (30.19mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1334
+
+Total Processing Time (hh:mm:ss) : 00:00:01
